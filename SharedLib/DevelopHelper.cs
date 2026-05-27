@@ -2,7 +2,7 @@ namespace SharedLib
 {
     public class DeviceHelper
     {
-        public string GetDeviceStatus()
+        public string GetDeviceStatusTemp()
         {
             return "Device Connected Successfully";
         }
